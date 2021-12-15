@@ -12,3 +12,5 @@ A Spring boot application which implements a Person API and gives the ability to
 * Java SDK 11
 * Git/GitHub
 * Postman
+* Docker
+* Postgres
