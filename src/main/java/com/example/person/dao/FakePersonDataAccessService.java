@@ -37,7 +37,7 @@ public class FakePersonDataAccessService implements PersonDao {
         if(personMaybe.isEmpty()){
             return 0;
         }
-    DB.remove(personMaybe.get());
+        DB.remove(personMaybe.get());
         return 1;
     }
 
